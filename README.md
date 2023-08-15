@@ -1,5 +1,5 @@
 ### Olá devs, sou o Johnny, estudante de programação com objetivo de me especializar em java. 
-Tecnologias que eu uso no meu dia
+Tecnologias que eu ja utilizei 
 
 <div>
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
