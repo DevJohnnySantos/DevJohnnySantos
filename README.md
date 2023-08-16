@@ -1,4 +1,3 @@
-### Olá devs, sou o Johnny, estudante de programação com objetivo de me especializar em java. 
 
 ### Tecnologias que eu já utilizei 
 
