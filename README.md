@@ -11,4 +11,3 @@
    
   </div>
 
-![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJohnnySantos&show_icons=true)
