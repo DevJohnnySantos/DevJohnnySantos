@@ -1,7 +1,7 @@
 
-### Tecnologias que eu já utilizei 
-
-<div>
+### Estudante de Sistemas de informação 
+### Algumas das tecnologias que ja utilizei
+div>
    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
